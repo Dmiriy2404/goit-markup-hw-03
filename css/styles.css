@@ -60,7 +60,6 @@ img {
     margin-right: auto;
     padding-left: 15px;
     padding-right: 15px;
-    outline: 2px solid red;
 }
 .section {
     padding-top: 94px;
@@ -271,6 +270,7 @@ img {
 }
 
 .team-name {
+    margin-bottom: 10px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.18;
@@ -293,7 +293,7 @@ img {
 
     padding: 60px 0;
 }
-.footer-nav-list {
+.address {
     margin-top: 20px;
 }
 .footer-list-link:not(:last-child) {
@@ -334,6 +334,7 @@ img {
     padding: 20px 24px;
     
     border: 1px solid #eeeeee;
+    border-top: none;
 }
 .webnav-btn {
     padding: 6px 22px;
@@ -359,6 +360,7 @@ img {
     gap: 30px;
 }
 .webnaw-title {
+    margin-bottom: 4px;
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
